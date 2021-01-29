@@ -1,9 +1,7 @@
-# DEMOPROG Aplikasi Web Based
-## Pengelolaan Data dengan Framework PHP CodeIgniter3
-### Sebuah program aplikasi sederhana yang dilengkapi dengan teknologi :
-- HTML5
-- Bootstrap 4
-- Jquery
-- SweetAlert 2
-![DEMPROG-ci3](https://user-images.githubusercontent.com/74296102/103605645-07f98f00-4f47-11eb-9946-ff623939e237.gif)
+# Tampilan Hasil Tes
+## Relasi 3 Tabel : Fakultas, Prodi, Mahasiswa
+
+![bbb](https://user-images.githubusercontent.com/74296102/106232426-969bbc00-6226-11eb-9901-cec0dca7df89.png)
+
+
 
